@@ -129,4 +129,4 @@ npm start
 npm run build
 ```
 
-1**27.0.0.1/<project name>/dist**
+1**27.0.0.1/ 'project name' /dist**
